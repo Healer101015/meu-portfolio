@@ -13,7 +13,7 @@ import VideoBuilder from './assets/react builder.mp4';
 import ImgBanco from './assets/banco.mp4';
 import VideoNarrativa from './assets/eco_da_sinfonia.mp4';
 import Videocontroledeestoque from './assets/cafeteria.mp4';
-import CurriculoPDF from './assets/JoaoBrito.pdf'; // <-- FIX: Importando o PDF!
+import CurriculoPDF from './assets/Joao_Brito.pdf'; // <-- FIX: Importando o PDF!
 
 // --- CURSOR PERSONALIZADO ---
 const CustomCursor = () => {
