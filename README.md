@@ -1,16 +1,66 @@
-# React + Vite
+# Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a personal portfolio developed to present my skills, projects, and professional information as a developer. The application focuses on performance, clean design, responsiveness, and a clear user experience.
 
-Currently, two official plugins are available:
+## About
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+The portfolio was built to centralize my main projects, technical knowledge, and contact information in a modern and accessible interface. It serves as a professional showcase for recruiters, clients, and collaborators.
 
-## React Compiler
+## Technologies
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* React
+* Vite
+* JavaScript / TypeScript
+* Tailwind CSS / CSS
+* HTML5
 
-## Expanding the ESLint configuration
+## Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* Personal presentation section
+* Projects showcase with descriptions and external links
+* About section with professional background
+* Contact section
+* Fully responsive layout for desktop, tablet, and mobile devices
+
+## Getting Started
+
+To run this project locally, follow the steps below:
+
+```bash
+npm install
+npm run dev
+```
+
+The application will be available at:
+
+```
+http://localhost:5173
+```
+
+## Build for Production
+
+To generate the production build:
+
+```bash
+npm run build
+```
+
+To preview the production version locally:
+
+```bash
+npm run preview
+```
+
+## Deployment
+
+This project can be deployed using platforms such as Vercel, Netlify, or GitHub Pages.
+
+## Contact
+
+LinkedIn: your-linkedin-url
+GitHub: your-github-url
+Email: your-email
+
+## License
+
+This project is open source and available under the MIT License.
