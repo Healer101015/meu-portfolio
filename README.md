@@ -57,9 +57,9 @@ This project can be deployed using platforms such as Vercel, Netlify, or GitHub 
 
 ## Contact
 
-LinkedIn: your-linkedin-url
-GitHub: your-github-url
-Email: your-email
+LinkedIn: https://www.linkedin.com/in/jo%C3%A3o-henrique-brito/
+GitHub: https://github.com/Healer101015
+Email: joaohenrique1025152@hotmail.com
 
 ## License
 
